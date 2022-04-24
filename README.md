@@ -6,7 +6,7 @@
 
 3. Projects are expected to be published public on github.
 
-# Contents
+# Open Source Music Projects
 
 * Logic Pro Official Demo
   * [Ocean Eyes](https://github.com/inseminate/logic-pro-official-demo)
