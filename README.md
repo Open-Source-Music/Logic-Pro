@@ -1,4 +1,4 @@
-# WHat is it?
+# What is it?
 
 1.Open source music is music with source audio that anyone can inspect, modify, and enhance.
 
