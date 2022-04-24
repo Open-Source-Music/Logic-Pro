@@ -7,7 +7,7 @@
 # Contents
 
 * Logic Pro Official Demo
-  * dddd
+  * [Ocean Eyes](https://github.com/inseminate/logic-pro-official-demo)
 * Pop
   * waiting for contributor
 * Classic
