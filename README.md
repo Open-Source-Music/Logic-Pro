@@ -6,7 +6,7 @@
 
 # Contents
 
-* Apple Demo
+* Logic Pro Official Demo
   * dddd
 * Pop
   * waiting for contributor
